@@ -9,8 +9,6 @@ i. Find max. number
 ii. Find count of max. numbers in the array, cmax
 iii. N - cmax is the answer
 
-
-
 Iterations = N + N + 1 = 2N + 1
 TC = O(N)
 SC = O(1)

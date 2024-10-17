@@ -170,6 +170,24 @@ SC:O(1)
 
 -------
 
-Given an array where every number appear thrice except exactly one number. Find & return single number.
+`Amazon` `Google`
+
+Given an array where every number appear thrice except exactly one number. Find & return single number.          
+
+Hint: Can we find if the ith bit in single number will be set or unset?   
+
+
+
+--------
+
+`Google`
+
+Given an array of N non-negative integers. Calculate the sum of XOR of all possible pairs (i,j) such that (i,j) != (j,i)
+
+A: 3|5|6|8
+
+
+
+
 
 
